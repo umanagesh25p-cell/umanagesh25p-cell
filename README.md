@@ -39,7 +39,12 @@ const uma = {
   motto       : "Code. Analyze. Ship. Repeat. 🔁",
 };
 
+
+
 ```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 
 ---
 
@@ -69,24 +74,24 @@ const uma = {
 </a>
 -->
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+
 </div>
 
 ---
 
-## ⚡ Tech Arsenal
+### ⚡ Tech Arsenal
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,java,c,mysql,mongodb,git,github" />
+</p>
 
-`React` `JavaScript` `HTML5` `CSS3` `Node.js` `Express.js`
-`Python` `Java` `C` `SQL` `MySQL` `NoSQL`
-`Pandas` `NumPy` `Scikit-learn` `Power BI` `Tableau` `Excel`
-`Git` `GitHub` `Jupyter Notebook` `Vite`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,java,c,mysql,mongodb,git,github" />
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 
 ---
 
@@ -105,6 +110,10 @@ Interactive Power BI dashboard built on a real-world retail dataset — full dat
 
 </td>
 <td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 
 ### 🩺 Rare Disease Prediction
 **ML Hackathon · Imbalanced Data**
@@ -161,6 +170,10 @@ My personal developer portfolio — fast load times, clean component-driven stru
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
 ---
 
 ## 🏆 Achievements & Leadership
@@ -172,6 +185,11 @@ My personal developer portfolio — fast load times, clean component-driven stru
 | 🏆 Competed in an **ML Hackathon**, delivered a working solution under time pressure and Won it |
 | 💡 LeetCode 200+ Problems Solved
 | 🌐 Google Gemini Student Ambassador
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
 
 ---
 
@@ -186,6 +204,11 @@ My personal developer portfolio — fast load times, clean component-driven stru
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=umanagesh25p-cell&theme=tokyonight&hide_border=true" />
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
 </div>
 
 ---
@@ -198,6 +221,11 @@ My personal developer portfolio — fast load times, clean component-driven stru
 > *"First, solve the problem. Then, write the code."*
 > — **John Johnson**
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
 </div>
 
 ---
@@ -205,6 +233,8 @@ My personal developer portfolio — fast load times, clean component-driven stru
 ## 🤝 Open to Collaborate On
 
 🌍 Open-source projects &nbsp;·&nbsp; 🔬 Research projects &nbsp;·&nbsp; 💼 Freelance opportunities
+
+
 
 ---
 
