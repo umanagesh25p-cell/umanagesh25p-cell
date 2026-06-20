@@ -42,7 +42,6 @@ const uma = {
   seeking     : "Data Analytics Internship",
   motto       : "Code. Analyze. Ship. Repeat. 🔁",
 };
-```
 
 ---
 
