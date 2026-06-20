@@ -4,28 +4,24 @@
   HOW TO USE: Put this file (as README.md) in a new public repo named
   EXACTLY your username: umanagesh25p-cell
   GitHub auto-displays it as your profile page.
-
-  Also see the "Snake Animation" section near the bottom — it needs a
-  one-time GitHub Actions setup (instructions included at the end).
   =====================================================================
 -->
-
-<div align="center">
-
-<!-- 🌟 ANIMATED TYPING BANNER -->
-<a href="https://github.com/umanagesh25p-cell">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DE&center=true&vCenter=true&width=700&lines=Data+%2B+Full-Stack+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+React;Code.+Analyze.+Ship.+Repeat." alt="Typing SVG" />
-</a>
-
-<br>
-
-# Duda Uma Nagesh
-
-**A Passionate Data Analyst & Full-Stack Developer from India 🇮🇳**
-
-<br>
-
-</div>
+<!-- Matrix Rain -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/umanagesh25p-cell)
+<!-- Main Typing -->
+<p align="center">
+  <a href="https://github.com/umanagesh25p-cell">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋;I%27m+Duda+Uma+Nagesh!;Data+Analyst;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+React;Have+a+Great+Day+🌞&font=Pacifico&center=true&width=1000&height=120&color=2EA0DE&vCenter=true&size=35" />
+  </a>
+</p>
+<!-- Hero Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=2EA0DE&center=true&vCenter=true&width=1000&height=100&lines=Hey+I%27m+Duda+Uma+Nagesh!;Data+Analyst+%26+Developer+%F0%9F%9A%80" alt="Hero" />
+</p>
+<h3 align="center">A Passionate Data Analyst & Full Stack Developer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 
 ---
 
