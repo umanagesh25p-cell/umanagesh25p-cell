@@ -24,6 +24,7 @@
 </p>
 
 ---
+<div align = "center">
 
 ## 🚀 About Me
 
