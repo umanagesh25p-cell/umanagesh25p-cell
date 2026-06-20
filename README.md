@@ -6,105 +6,88 @@
   GitHub auto-displays it as your profile page.
 
   Also see the "Snake Animation" section near the bottom — it needs a
-  one-time GitHub Actions setup (instructions included).
+  one-time GitHub Actions setup (instructions included at the end).
   =====================================================================
 -->
 
 <div align="center">
 
-<!-- 🌟 ANIMATED TYPING BANNER — edit the lines after ";" to change the text -->
+<!-- 🌟 ANIMATED TYPING BANNER -->
 <a href="https://github.com/umanagesh25p-cell">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Uma+Nagesh+%F0%9F%91%8B;Data+Analyst+%2B+Full-Stack+Developer;I+turn+messy+data+into+clear+decisions;Open+to+Data+Analytics+Internships+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DE&center=true&vCenter=true&width=700&lines=Data+%2B+Full-Stack+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+React;Code.+Analyze.+Ship.+Repeat." alt="Typing SVG" />
 </a>
-
-<img src="https://img.shields.io/badge/B.Tech_CS-GPA_8.7%2F10-2EA0DE?style=flat-square" />
-<img src="https://img.shields.io/badge/Open_to-Data_Analytics_Internships-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Location-Visakhapatnam%2C_India-orange?style=flat-square" />
-
-<br><br>
-
-<a href="mailto:umanagesh25p@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:+918790015394">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://github.com/umanagesh25p-cell">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 <br>
 
-## 🧠 About Me
+# Duda Uma Nagesh
 
-I'm a **Computer Science undergraduate (GPA 8.7/10)** who works at the intersection of **data analytics and full-stack development** — I don't just analyze data, I build the tools that surface it. Across my projects I've cleaned and modeled real-world datasets, trained a classifier on a **42:1 imbalanced dataset**, shipped interactive dashboards, and built three working web applications end-to-end.
+**A Passionate Data Analyst & Full-Stack Developer from India 🇮🇳**
 
-**🎯 Currently seeking:** a **Data Analytics internship** where I can apply Python, SQL, and BI tooling to real business problems.
+<br>
 
-```text
-🔭 Building       → Dashboards, ML experiments, and full-stack web apps
-🌱 Leveling up in → Advanced SQL, ML pipelines, modern React patterns
-🤝 Open to        → Open-source contributions · Research · Freelance work
-⚡ Fun fact       → Ran a college Technology Fair and a farewell event back-to-back —
-                     turns out event logistics debug the same way code does
+</div>
+
+---
+
+## 🚀 About Me
+
+📊 B.Tech CS (CSM) @ ANITS, Visakhapatnam &nbsp;|&nbsp; 💻 Data Analytics + Full-Stack Development &nbsp;|&nbsp; 🎯 Seeking Data Analytics Internship &nbsp;|&nbsp; 📧 umanagesh25p@gmail.com &nbsp;|&nbsp; 🏆 ML Hackathon Competitor &nbsp;|&nbsp; 🎪 Event Lead &nbsp;|&nbsp; 📈 GPA 8.7/10 &nbsp;|&nbsp; Code. Analyze. Ship.
+
+```js
+const uma = {
+  role        : "Data Analyst + Full-Stack Developer 🚀",
+  college     : "ANITS Visakhapatnam — CS (CSM), GPA 8.7/10 🎓",
+  stack       : ["Python", "SQL", "Power BI", "React", "Node.js"],
+  highlights  : ["42:1 imbalanced-data ML model", "Tech Fair Lead", "Hackathon competitor"],
+  seeking     : "Data Analytics Internship",
+  motto       : "Code. Analyze. Ship. Repeat. 🔁",
+};
 ```
 
 ---
 
-## 📊 Quick Stats
-
-<table>
-<tr>
-<td align="center"><b>8.7 / 10</b><br><sub>B.Tech CGPA</sub></td>
-<td align="center"><b>97.3%</b><br><sub>Intermediate (MPC)</sub></td>
-<td align="center"><b>6</b><br><sub>Shipped Projects</sub></td>
-<td align="center"><b>42:1</b><br><sub>Class Imbalance Handled (ML)</sub></td>
-<td align="center"><b>3</b><br><sub>Full Web Apps Built</sub></td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+## 🌐 Connect with Me
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://www.linkedin.com/in/uma-nagesh-b02931322" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Umanagesh/" target="_blank">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:umanagesh25p@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/umanagesh25p-cell" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Data Analytics & Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<!-- Add these once they exist — uncomment and fill in the URL
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+-->
 
-**Visualization & BI**
-<br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
 
-**Web Development**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+---
 
-**Databases & Tools**
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+`React` `JavaScript` `HTML5` `CSS3` `Node.js` `Express.js`
+`Python` `Java` `C` `SQL` `MySQL` `NoSQL`
+`Pandas` `NumPy` `Scikit-learn` `Power BI` `Tableau` `Excel`
+`Git` `GitHub` `Jupyter Notebook` `Vite`
+
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,java,c,mysql,mongodb,git,github" />
 
 </div>
 
@@ -112,82 +95,85 @@ I'm a **Computer Science undergraduate (GPA 8.7/10)** who works at the intersect
 
 ## 🚀 Featured Projects
 
-<!-- Update GitHub Link / Live Demo URLs as needed -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 📊 [Sales Dashboard Analysis](https://github.com/umanagesh25p-cell)
-Built an interactive **Power BI dashboard** on a real-world retail dataset — cleaned raw transaction data, ran exploratory analysis, and surfaced revenue trends and KPIs that translate into actionable sales-targeting decisions.
-> **Impact:** Converted raw retail data into a single-view dashboard for revenue and KPI tracking.
+### 📊 Sales Dashboard Analysis
+**Power BI · Data Analytics**
 
-`Power BI` · `Data Cleaning` · `EDA`
+Interactive Power BI dashboard built on a real-world retail dataset — full data cleaning, EDA, and revenue/KPI insights for sales targeting.
 
-### 🩺 [Rare Disease Prediction from Imbalanced Mammography Data](https://github.com/umanagesh25p-cell)
-Built a breast-cancer prediction model on a **severely imbalanced dataset (42:1)** for an ML hackathon, applying **SMOTE** and cost-sensitive learning to counteract the imbalance, plus feature correlation analysis to isolate the most predictive variables.
-> **Impact:** Delivered a working classifier on a dataset where naive models would default to predicting the majority class 100% of the time.
+`Power BI` `Data Cleaning` `EDA`
 
-`Python` · `Scikit-learn` · `SMOTE` · `EDA`
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Rare Disease Prediction
+**ML Hackathon · Imbalanced Data**
+
+Breast-cancer prediction model on a severely imbalanced dataset (42:1), using SMOTE and cost-sensitive learning with feature correlation analysis.
+
+`Python` `Scikit-learn` `SMOTE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 [Budget Finance Tracker](https://github.com/umanagesh25p-cell/personalfinancetracker)
-Designed and built a responsive personal expense management web app with real-time income/expense tracking and live analytics charts.
-> **Impact:** Full end-to-end web app — UI, state, and data visualization — shipped solo.
+**Personal Finance · Web App**
 
-`HTML` · `CSS` · `JavaScript`
+Responsive personal expense management web app with real-time income/expense tracking and analytics charts.
 
-### 🔐 [Encrypted Notes Application](https://github.com/umanagesh25p-cell/encrypted-notes)
-Built a secure note-taking tool with integrated encryption, ensuring notes remain private end-to-end.
-> **Impact:** Implemented encryption logic from scratch rather than relying on a third-party auth layer.
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Encrypted Notes App](https://github.com/umanagesh25p-cell/encrypted-notes)
+**Security · Python**
+
+Secure note-taking tool with integrated encryption, built to keep notes fully private end-to-end.
 
 `Python`
 
-### 🎙️ OpenAI Voice Assistant
-Built a voice assistant capable of handling natural-language queries and automating simple tasks, powered by the OpenAI API.
-> **Impact:** Integrated a third-party LLM API into a working voice-driven product.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Python` · `OpenAI API`
+### 🎙️ OpenAI Voice Assistant
+**AI · Automation**
+
+Voice assistant for natural-language query handling and task automation, powered by the OpenAI API.
+
+`Python` `OpenAI API`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 [Portfolio Website](https://github.com/umanagesh25p-cell/Portfolio-)
-My personal developer portfolio, built with React and Vite for fast load times and a clean component-driven structure.
+**React · Vite**
 
-`React` · `Vite`
+My personal developer portfolio — fast load times, clean component-driven structure.
 
----
+`React` `Vite`
 
-## 📈 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umanagesh25p-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umanagesh25p-cell&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umanagesh25p-cell&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umanagesh25p-cell&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  This animated snake "eats" your contribution graph. It needs a ONE-TIME
-  GitHub Actions setup — see the workflow file below the README content.
-  Once the Action runs once, this image will render automatically.
--->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/umanagesh25p-cell/umanagesh25p-cell/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🎪 **Coordinated a college-wide Technology Fair** — owned planning and execution across multiple teams.
-- 🎓 **Lead organizer for a large-scale farewell event** — managed end-to-end logistics for the full event lifecycle.
-- 🤖 **ML Hackathon competitor** — delivered a working, evaluated machine learning solution under time pressure.
-- 📈 **97.3%** in Intermediate (MPC) · **8.7/10 CGPA** in B.Tech CS, top of class trajectory.
+| Achievements |
+|---|
+| 🎪 Coordinated a college-wide **Technology Fair** |
+| 🎓 Lead organizer for a large-scale **farewell event** |
+| 🤖 Competed in an **ML Hackathon**, delivered a working solution under time pressure |
+| 📈 **97.3%** in Intermediate (MPC) · **8.7/10 GPA** in B.Tech CS |
 
 ---
 
@@ -201,38 +187,58 @@ My personal developer portfolio, built with React and Vite for fast load times a
 
 ---
 
-## 🤝 Open to Collaborate On
-
-- 🌍 Open-source projects
-- 🔬 Research projects
-- 💼 Freelance opportunities
-
----
-
-## 📬 Connect With Me
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="mailto:umanagesh25p@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/umanagesh25p-cell">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!--
-  No LinkedIn yet — once you create one, add it here:
-  <a href="https://linkedin.com/in/your-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
--->
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=umanagesh25p-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umanagesh25p-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umanagesh25p-cell&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  Animated snake that "eats" your contribution graph.
+  Needs a ONE-TIME GitHub Actions setup — see setup notes at the
+  very end of this file (also provided as a separate snake.yml file).
+-->
+
 <div align="center">
-<i>"I turn messy data into clear decisions — one dashboard, one model, one app at a time."</i>
+<img src="https://raw.githubusercontent.com/umanagesh25p-cell/umanagesh25p-cell/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
+
+</div>
+
+---
+
+## 🤝 Open to Collaborate On
+
+🌍 Open-source projects &nbsp;·&nbsp; 🔬 Research projects &nbsp;·&nbsp; 💼 Freelance opportunities
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=umanagesh25p-cell&style=for-the-badge&color=2EA0DE&label=PROFILE+VIEWS" alt="Profile views" />
+
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=umanagesh25p-cell&style=for-the-badge&color=2EA0DE" alt="Profile views" />
+
+<i>Code. Analyze. Ship. Repeat. 🔁</i>
+
 </div>
