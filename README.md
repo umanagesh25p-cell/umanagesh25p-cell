@@ -39,6 +39,7 @@ const uma = {
   seeking     : "Data Analytics Internship",
   motto       : "Code. Analyze. Ship. Repeat. 🔁",
 };
+
 ```
 
 ---
@@ -169,18 +170,9 @@ My personal developer portfolio — fast load times, clean component-driven stru
 |---|
 | 🎪 Coordinated a college-wide **Technology Fair** |
 | 🎓 Lead organizer for a large-scale **farewell event** |
-| 🤖 Competed in an **ML Hackathon**, delivered a working solution under time pressure |
-| 📈 **97.3%** in Intermediate (MPC) · **8.7/10 GPA** in B.Tech CS |
-
----
-
-## 📚 Education
-
-| Degree | Institution | Score | Years |
-|---|---|---|---|
-| B.Tech in Computer Science (CSM) | Anil Neerukonda Institute of Technology and Sciences | GPA 8.7/10 | 2023 – Present |
-| Intermediate (MPC) | Narayana Junior College | 97.3% | 2021 – 2023 |
-| Class X (SSC) | Narayana School, Visakhapatnam | 72% | 2021 |
+| 🏆 Competed in an **ML Hackathon**, delivered a working solution under time pressure and Won it |
+| 💡 LeetCode 200+ Problems Solved
+| 🌐 Google Gemini Student Ambassador
 
 ---
 
@@ -199,19 +191,6 @@ My personal developer portfolio — fast load times, clean component-driven stru
 
 ---
 
-## 🐍 Contribution Snake
-
-<!--
-  Animated snake that "eats" your contribution graph.
-  Needs a ONE-TIME GitHub Actions setup — see setup notes at the
-  very end of this file (also provided as a separate snake.yml file).
--->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/umanagesh25p-cell/umanagesh25p-cell/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</div>
-
----
 
 ## 💬 Random Dev Quote
 
