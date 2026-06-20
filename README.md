@@ -4,46 +4,36 @@
   HOW TO USE: Put this file (as README.md) in a new public repo named
   EXACTLY your username: umanagesh25p-cell
   GitHub auto-displays it as your profile page.
+
+  Also see the "Snake Animation" section near the bottom — it needs a
+  one-time GitHub Actions setup (instructions included at the end).
   =====================================================================
 -->
 
-<!-- Matrix Rain -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/umanagesh25p-cell)
+<div align="center">
 
-<!-- Main Typing -->
-<p align="center">
-  <a href="https://github.com/umanagesh25p-cell">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋;I%27m+Duda+Uma+Nagesh!;Data+Analyst;Full+Stack+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+React;Have+a+Great+Day+🌞&font=Pacifico&center=true&width=1000&height=120&color=2EA0DE&vCenter=true&size=35" />
-  </a>
-</p>
+<!-- 🌟 ANIMATED TYPING BANNER -->
+<a href="https://github.com/umanagesh25p-cell">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DE&center=true&vCenter=true&width=700&lines=Data+%2B+Full-Stack+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+React;Code.+Analyze.+Ship.+Repeat." alt="Typing SVG" />
+</a>
 
-<!-- Hero Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=2EA0DE&center=true&vCenter=true&width=1000&height=100&lines=Hey+I%27m+Duda+Uma+Nagesh!;Data+Analyst+%26+Developer+%F0%9F%9A%80" alt="Hero" />
-</p>
+<br>
 
-<h3 align="center">A Passionate Data Analyst & Full Stack Developer from India 🇮🇳</h3>
+# Duda Uma Nagesh
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+**A Passionate Data Analyst & Full-Stack Developer from India 🇮🇳**
+
+<br>
+
+</div>
 
 ---
 
-## 🧬 About Me
+## 🚀 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+📊 B.Tech CS (CSM) @ ANITS, Visakhapatnam &nbsp;|&nbsp; 💻 Data Analytics + Full-Stack Development &nbsp;|&nbsp; 🎯 Seeking Data Analytics Internship &nbsp;|&nbsp; 📧 umanagesh25p@gmail.com &nbsp;|&nbsp; 🏆 ML Hackathon Competitor &nbsp;|&nbsp; 🎪 Event Lead &nbsp;|&nbsp; 📈 GPA 8.7/10 &nbsp;|&nbsp; Code. Analyze. Ship.
 
-🎓 **B.Tech CS (CSM)** @ ANITS, Visakhapatnam  
-💼 **Data Analytics & Full-Stack Development**  
-📧 **Contact:** umanagesh25p@gmail.com  
-🏆 **ML Hackathon Competitor** | 🎯 **Seeking Internship** | 🎪 **Event Lead**  
-📈 **GPA 8.7/10** | Intermediate (MPC) **97.3%**  
-☕ Code. Analyze. Ship. Repeat.
-
-<br/><br/>
-
-```javascript
+```js
 const uma = {
   role        : "Data Analyst + Full-Stack Developer 🚀",
   college     : "ANITS Visakhapatnam — CS (CSM), GPA 8.7/10 🎓",
@@ -52,6 +42,7 @@ const uma = {
   seeking     : "Data Analytics Internship",
   motto       : "Code. Analyze. Ship. Repeat. 🔁",
 };
+```
 
 ---
 
