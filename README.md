@@ -1,244 +1,51 @@
 <!--
   =====================================================================
-  GitHub Profile README — Duda Uma Nagesh
-  HOW TO USE: Put this file (as README.md) in a new public repo named
-  EXACTLY your username: umanagesh25p-cell
-  GitHub auto-displays it as your profile page.
-
-  Also see the "Snake Animation" section near the bottom — it needs a
-  one-time GitHub Actions setup (instructions included at the end).
+  GitHub Profile README — Duda Uma Nagesh (ULTIMATE ANIMATED EDITION)
+  HOW TO USE: Put this file (as README.md) in your public repo named:
+  umanagesh25p-cell
   =====================================================================
 -->
-
 <div align="center">
-
-<!-- 🌟 ANIMATED TYPING BANNER -->
+<!-- 🌟 GLOWING & TYPING HEADER -->
 <a href="https://github.com/umanagesh25p-cell">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA0DE&center=true&vCenter=true&width=700&lines=Data+%2B+Full-Stack+Developer;Python+%7C+SQL+%7C+Power+BI+%7C+React;Code.+Analyze.+Ship.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=750&lines=🚀+Data+Analyst+%2B+Full-Stack+Developer;🐍+Python+%7C+SQL+%7C+Power+BI+%7C+React;⚡+Transforming+Raw+Data+into+Actionable+Code;Code.+Analyze.+Ship.+Repeat." alt="Typing SVG" />
 </a>
-
-<br>
-
-# Duda Uma Nagesh
-
-**A Passionate Data Analyst & Full-Stack Developer from India 🇮🇳**
-
-<br>
-
-</div>
-
----
-
-## 🚀 About Me
-
-📊 B.Tech CS (CSM) @ ANITS, Visakhapatnam &nbsp;|&nbsp; 💻 Data Analytics + Full-Stack Development &nbsp;|&nbsp; 🎯 Seeking Data Analytics Internship &nbsp;|&nbsp; 📧 umanagesh25p@gmail.com &nbsp;|&nbsp; 🏆 ML Hackathon Competitor &nbsp;|&nbsp; 🎪 Event Lead &nbsp;|&nbsp; 📈 GPA 8.7/10 &nbsp;|&nbsp; Code. Analyze. Ship.
-
-```js
-const uma = {
-  role        : "Data Analyst + Full-Stack Developer 🚀",
-  college     : "ANITS Visakhapatnam — CS (CSM), GPA 8.7/10 🎓",
-  stack       : ["Python", "SQL", "Power BI", "React", "Node.js"],
-  highlights  : ["42:1 imbalanced-data ML model", "Tech Fair Lead", "Hackathon competitor"],
-  seeking     : "Data Analytics Internship",
-  motto       : "Code. Analyze. Ship. Repeat. 🔁",
-};
-```
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/uma-nagesh-b02931322" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Umanagesh/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="mailto:umanagesh25p@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/umanagesh25p-cell" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add these once they exist — uncomment and fill in the URL
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
--->
-
-</div>
-
----
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-`React` `JavaScript` `HTML5` `CSS3` `Node.js` `Express.js`
-`Python` `Java` `C` `SQL` `MySQL` `NoSQL`
-`Pandas` `NumPy` `Scikit-learn` `Power BI` `Tableau` `Excel`
-`Git` `GitHub` `Jupyter Notebook` `Vite`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,java,c,mysql,mongodb,git,github" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sales Dashboard Analysis
-**Power BI · Data Analytics**
-
-Interactive Power BI dashboard built on a real-world retail dataset — full data cleaning, EDA, and revenue/KPI insights for sales targeting.
-
-`Power BI` `Data Cleaning` `EDA`
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 Rare Disease Prediction
-**ML Hackathon · Imbalanced Data**
-
-Breast-cancer prediction model on a severely imbalanced dataset (42:1), using SMOTE and cost-sensitive learning with feature correlation analysis.
-
-`Python` `Scikit-learn` `SMOTE`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 [Budget Finance Tracker](https://github.com/umanagesh25p-cell/personalfinancetracker)
-**Personal Finance · Web App**
-
-Responsive personal expense management web app with real-time income/expense tracking and analytics charts.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Encrypted Notes App](https://github.com/umanagesh25p-cell/encrypted-notes)
-**Security · Python**
-
-Secure note-taking tool with integrated encryption, built to keep notes fully private end-to-end.
-
-`Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ OpenAI Voice Assistant
-**AI · Automation**
-
-Voice assistant for natural-language query handling and task automation, powered by the OpenAI API.
-
-`Python` `OpenAI API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio Website](https://github.com/umanagesh25p-cell/Portfolio-)
-**React · Vite**
-
-My personal developer portfolio — fast load times, clean component-driven structure.
-
-`React` `Vite`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements & Leadership
-
-| Achievements |
-|---|
-| 🎪 Coordinated a college-wide **Technology Fair** |
-| 🎓 Lead organizer for a large-scale **farewell event** |
-| 🤖 Competed in an **ML Hackathon**, delivered a working solution under time pressure |
-| 📈 **97.3%** in Intermediate (MPC) · **8.7/10 GPA** in B.Tech CS |
-
----
-
-## 📚 Education
-
-| Degree | Institution | Score | Years |
-|---|---|---|---|
-| B.Tech in Computer Science (CSM) | Anil Neerukonda Institute of Technology and Sciences | GPA 8.7/10 | 2023 – Present |
-| Intermediate (MPC) | Narayana Junior College | 97.3% | 2021 – 2023 |
-| Class X (SSC) | Narayana School, Visakhapatnam | 72% | 2021 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umanagesh25p-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umanagesh25p-cell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umanagesh25p-cell&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  Animated snake that "eats" your contribution graph.
-  Needs a ONE-TIME GitHub Actions setup — see setup notes at the
-  very end of this file (also provided as a separate snake.yml file).
--->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/umanagesh25p-cell/umanagesh25p-cell/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
-
-</div>
-
----
-
-## 🤝 Open to Collaborate On
-
-🌍 Open-source projects &nbsp;·&nbsp; 🔬 Research projects &nbsp;·&nbsp; 💼 Freelance opportunities
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=umanagesh25p-cell&style=for-the-badge&color=2EA0DE&label=PROFILE+VIEWS" alt="Profile views" />
-
+# 🌌 Duda Uma Nagesh
+### *CS Student • Data Analytics Enthusiast • Full-Stack Developer*
+<!-- 🚀 COOL FLOATING CODING ANIMATION -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBkdmxoaDRmcW4yd2QxNDZ5M3Q3dm9hNW12ZTRlY3RyMTc3Zml5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3PfvGTJAXK/giphy.gif" width="380" alt="Coding Animation" />
 <br><br>
-
-<i>Code. Analyze. Ship. Repeat. 🔁</i>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/uma-nagesh-b02931322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Umanagesh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:umanagesh25p@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/umanagesh25p-cell" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 </div>
+---
+## 💻 Terminal Profile
+```yaml
+---
+developer:
+  name: "Duda Uma Nagesh"
+  origin: "India 🇮🇳"
+  academics:
+    degree: "B.Tech in CS (CSM)"
+    institution: "ANITS, Visakhapatnam"
+    gpa: "8.7 / 10"
+  fields_of_interest:
+    - "Predictive Modeling & ML"
+    - "Data Pipelines & ETL"
+    - "Interactive Analytics Dashboards"
+    - "Robust Full-Stack Engineering"
+  active_focus: "Seeking a Data Analytics Internship 🎯"
+  current_motto: "Let the data speak, but make the code run fast."
+---
